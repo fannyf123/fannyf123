@@ -42,12 +42,6 @@ Bagian-bagian penting:
 - **Pengembangan Media Ajar**: handbook siswa, jobsheet, slide presentasi interaktif
 - **Asesmen**: rubrik analitik berbobot, formatif, sumatif
 
-## 📫 Kontak
-
-- Email: [fannyfatchurrahman@gmail.com](mailto:fannyfatchurrahman@gmail.com)
-- WhatsApp: [+62 812-2744-8532](https://wa.me/6281227448532)
-- Lokasi: Klaten, Jawa Tengah
-
 ---
 
 <div align="center">
